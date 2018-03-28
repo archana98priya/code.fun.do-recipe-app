@@ -29,9 +29,9 @@ How to run the app:
     python manage.py runserver
 
 
- Limitations: Due to lack of proper dataset, only the idea of recipes and kitchen leftovers could be implemented.
-              Note:
-                    In the ingredients section, 5 ingredients are needed to be added.
+ 
+ Note:
+ In the ingredients section, 5 ingredients are needed to be added.
 
 
 
